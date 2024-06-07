@@ -1,4 +1,6 @@
 //¸´ÊıÔËËãÀà.h
+#ifndef _COMPLEX_
+#define _COMPLEX_
 #include  <iostream>
 #include  <cmath>
 using namespace std;
@@ -133,4 +135,4 @@ class  complex {
 			return c;
 		}
 };
-
+#endif
