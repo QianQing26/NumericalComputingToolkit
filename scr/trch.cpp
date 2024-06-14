@@ -73,7 +73,7 @@ int trch(double t[], double tt[], int n, double b[]) {
 /*
   #include <cmath>
   #include <iostream>
-//  #include "Toeplitz¾ØÕóÇóÄæ.cpp"
+//  #include "tch.cpp"
   using namespace std;
   int main()
   { int n,i,j,k;
